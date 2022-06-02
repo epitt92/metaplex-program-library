@@ -131,5 +131,5 @@ pub struct PayoutTicket {
 }
 
 impl PayoutTicket {
-    pub const LEN: usize = 1;
+    pub const LEN: usize = 9;
 }
